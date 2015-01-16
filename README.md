@@ -12,6 +12,10 @@ Put on composer.json file
 
 # Convert to Currency
 
+```html
+Matauang/Matauang::convert(value, symbol, delimiter, endpoint)
+```
+
 And here's some code!
 
 ```php
