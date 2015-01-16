@@ -15,5 +15,11 @@
       "psr-0": {
           "Matauang" : "kukuhprabowo/"
       }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kukuhpro/php-matauang.git"
+        }
+    ]
 }
