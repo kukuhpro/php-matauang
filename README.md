@@ -24,5 +24,11 @@ And here's some code!
   Matauang/Matauang::convert('2000');
 ```
 
+output 
+
+```html
+  Rp. 200.000,-
+```
+
 
 
